@@ -19,3 +19,23 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 ## Installation
   1.Clone the repository
      https://github.com/NandhanaR96/PRODIGY_CS_02.git
+  2.Install the required libraries:
+      - pillow
+      - numpy
+## Brief Summary of code
+  1. Opens an image file
+  2. Converts it to RGB mode
+  3. Swaps adjacent pixel values to "encrypt" the image
+  4. Reduces the image size by half
+  5. Applies a box blur filter
+  6. Saves the encrypted image to a new file.
+
+# EXAMPLE
+## Original image
+  
+
+
+
+
+
+
