@@ -17,5 +17,5 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
     - numpy for numerical operations
 
 ## Installation
-  1.Clone the repository:
-  
+  1.Clone the repository
+     https://github.com/NandhanaR96/PRODIGY_CS_02.git
