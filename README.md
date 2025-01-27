@@ -34,6 +34,7 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 ## Original image
   
 
+![encrypted_image](https://github.com/user-attachments/assets/d5666883-4762-430a-b617-75d6163aae15)
 
 
 
