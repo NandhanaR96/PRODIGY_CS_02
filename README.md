@@ -42,3 +42,8 @@ This project is a simple image encryption tool that utilizes pixel manipulation 
 ## Image after Decryption
 
 ![decrypted_image](https://github.com/user-attachments/assets/bce3b7cd-7c7f-49a1-9630-4abcb30c41f5)
+
+## Contact
+
+For any questions or feedback, please reach out to nnandhana96@gmail.com .
+
